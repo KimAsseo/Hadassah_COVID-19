@@ -6,7 +6,8 @@ Meant only for symptomatic people, less effective in prediction if the person di
 
 To use, please download one of the excel files and fill your answers in the box title "Answers" as instructed in the "Comments" column.
 In red you will get the probability, scaled from 0 to 100 percent.
-Below 50% - Can not be determined. 
+
+Below 50% - Cannot be determined. 
 Above 50% - you will get the probability based on the calculator.
 
 There are two calculators:
