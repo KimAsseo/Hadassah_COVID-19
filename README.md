@@ -19,6 +19,6 @@ There are three calculators:
 
   Based on degree of change in the ability to smell
 
-* calculator_basic_and_taste (to be used for people with previous olfactory impairment)
+* calculator_basic_and_taste (to be used for people with #previous# olfactory impairment)
 
   Includes six symptoms: fever, breath difficulty, sore throat, muscle ache, lack of appetite and change in sense of taste
