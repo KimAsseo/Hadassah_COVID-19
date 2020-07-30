@@ -4,9 +4,10 @@ Calculators for probability to be positive to COVID-19 based on specific symptom
 
 IMPORTANT! 
 
-# Low probability does NOT mean that the patient does not have COVID-19! High probability means you are very likely to have COVID-19. 
+# Low probability does NOT mean that the patient does not have COVID-19! High probability means high probability for COVID-19. 
 
 To use , please download one of the excel files and fill your answers in the box title "Answers" as instructed in the "Comments" column. In red you will get the probability, scaled from 0 to 100 percent.
+Please change "Rate of positive tests" to current prevalence rate.
 
 There are three calculators:
 
