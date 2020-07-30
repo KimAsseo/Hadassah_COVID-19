@@ -2,7 +2,7 @@
 
 ## Calculators for probability to be positive to COVID-19 based on specific symptoms, according to Karni, Klein et al (link to medrxiv)
 
-*IMPORTANT! 
+**IMPORTANT! 
 
 # Low probability does NOT mean that the patient does not have COVID-19! High probability means high probability for COVID-19. 
 
