@@ -8,6 +8,8 @@ In red you will get the probability, scaled from 0 to 100 percent.
 
 There are two calculators:
 * calculator_basic_and_smell:
+
   Includes five symptoms: fever, sore throat, muscle ache, lack of appetite and change in sense of smell
 * calculator_smell:
+
   Based on degree of change in the ability to smell
