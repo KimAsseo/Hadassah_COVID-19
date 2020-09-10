@@ -1,6 +1,6 @@
 # Hadassah_COVID-19
 
-## Calculators for probability to be positive to COVID-19 based on specific symptoms, according to Karni, Klein et al (link to medrxiv)
+## Calculators for probability to be positive to COVID-19 based on specific symptoms, according to Karni, Klein et al (https://www.medrxiv.org/content/10.1101/2020.07.30.20164327v1)
 
 **IMPORTANT!**
 
